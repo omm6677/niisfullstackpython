@@ -1,0 +1,15 @@
+print("Enter 5 Mark")
+m1=int(input("Enter mark1\n"))
+m2=int(input("Enter mark2\n"))
+m3=int(input("Enter mark3\n"))
+m4=int(input("Enter mark4\n"))
+m5=int(input("Enter mark5\n"))
+total=m1+m2+m3+m4+m5
+avg=total/5
+print("mark=",m1)
+print("mark=",m2)
+print("mark=",m3)
+print("mark=",m4)
+print("mark=",m5)
+print("average mark",avg)
+print("total mark",total)
